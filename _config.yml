@@ -9,7 +9,7 @@ name: 박수빈
 description: 기술을 배우고 기록하며 성장하는 이야기
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://drive.google.com/file/d/1i4LC3GdngwRboOUzMj8sOtZqvL0biY83/view?usp=drive_link
+avatar: avatar.jpg
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://drive.google.com/file/d/1i4LC3GdngwRboOUzMj8sOtZqvL0biY83/view?u
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: subin4420@gmail.com
-  github: barryclark/jekyll-now
+  github: subin4420
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
